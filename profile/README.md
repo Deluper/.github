@@ -46,16 +46,18 @@
 
 ## Who We Are
 
-**Deluper** is an independent commercial software and technology brand dedicated to engineering resilient digital solutions, high-performance web platforms, and scalable cloud applications. We combine modern software engineering principles with intelligent automation to build software that scales reliably and transforms operational workflows.
+**Deluper** is an independent commercial software and technology brand dedicated to engineering resilient digital solutions, high-performance web platforms, scalable cloud systems, and intelligent hardware-software integrations. We combine modern software engineering principles with robust systems programming and intelligent automation to build technology that scales reliably and transforms operational workflows.
 
-From foundational system architecture to modern full-stack application development, Deluper designs and implements digital products built for longevity, performance, and security.
+From foundational system architecture to modern full-stack application development and edge computing, Deluper designs and implements digital products built for longevity, performance, and security.
 
 ### Core Focus Areas
 
-- 🌐 **Modern Software Engineering** — Clean, maintainable architectures following industry standards and robust testing paradigms.
+- 🌐 **Modern Software Engineering** — Clean, maintainable architectures following industry standards and robust testing paradigms across high-level languages and systems programming.
 - ⚡ **SaaS Product Development** — Multi-tenant, subscription-ready cloud platforms engineered for linear scalability.
 - ☁️ **Cloud-Native Solutions** — Elastic containerized infrastructure and automated CI/CD deployment pipelines.
-- ⚙️ **API & Backend Systems** — High-throughput microservices, low-latency RESTful APIs, and distributed event-driven systems.
+- ⚙️ **API & Backend Systems** — High-throughput microservices, low-latency RESTful APIs, and distributed event-driven systems in Node.js, Python, and Ruby.
+- 🔌 **Embedded Systems & IoT Engineering** — Low-level firmware, microcontrollers, edge hardware integrations, and sensors using C, C++, Arduino, and Raspberry Pi platforms.
+- 📜 **Systems Scripting & Task Automation** — Cross-platform automation pipelines utilizing Python, GNU Bash, Windows Batch, and PowerShell to eliminate manual bottlenecks.
 - 🤖 **Intelligent Automation** — Workflow orchestration and systems integrations that streamline operational complexity.
 - 🛡️ **Enterprise Software Engineering** — Resilient, data-driven software solutions tailored to mission-critical business requirements.
 
@@ -74,8 +76,8 @@ Deluper specializes in full-lifecycle software development, providing technical 
 <table>
   <thead>
     <tr>
-      <th width="50%">Domain</th>
-      <th width="50%">Engineering Scope</th>
+      <th width="45%">Domain</th>
+      <th width="55%">Engineering Scope</th>
     </tr>
   </thead>
   <tbody>
@@ -103,7 +105,25 @@ Deluper specializes in full-lifecycle software development, providing technical 
         <sub>Secure APIs, microservices, and distributed architectures</sub>
       </td>
       <td>
-        High-concurrency backend services, performant RESTful APIs, decoupled microservices, and reliable asynchronous event streaming pipelines.
+        High-concurrency backend services, performant RESTful APIs, decoupled microservices, and reliable asynchronous event streaming pipelines built with Node.js, Python, and Ruby.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🔌 Embedded Systems &amp; IoT</strong><br />
+        <sub>Firmware, hardware interfacing, and connected devices</sub>
+      </td>
+      <td>
+        Microcontroller firmware, sensor network integrations, embedded Linux solutions, and telemetry systems engineered with C, C++, Arduino, and Raspberry Pi platforms.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>📜 Systems Scripting &amp; Automation</strong><br />
+        <sub>Cross-platform scripts and workflow utilities</sub>
+      </td>
+      <td>
+        Tailored execution scripts, scheduled cron jobs, batch processes (.bat), POSIX shell automation (Bash), and administrative automation scripts.
       </td>
     </tr>
     <tr>
@@ -135,11 +155,11 @@ Deluper specializes in full-lifecycle software development, providing technical 
     </tr>
     <tr>
       <td>
-        <strong>🛠️ Developer Platforms</strong><br />
+        <strong>🛠️ Developer Platforms &amp; CLI Tools</strong><br />
         <sub>Reusable engineering tools and software foundations</sub>
       </td>
       <td>
-        Modular open-source components, developer utilities, client SDKs, and standardized boilerplate architectures that accelerate product velocity.
+        Modular open-source components, command-line utilities, client SDKs, and standardized boilerplate architectures that accelerate engineering velocity.
       </td>
     </tr>
     <tr>
@@ -164,7 +184,71 @@ Deluper specializes in full-lifecycle software development, providing technical 
 
 ## Technologies & Engineering
 
-Our engineering capabilities span modern programming languages, cloud environments, container systems, and scalable database technologies.
+Our engineering capabilities span diverse programming languages, systems programming, hardware computing, cloud environments, and distributed database technologies.
+
+### Core Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+### Embedded Systems, IoT & Hardware Computing
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Embedded_C%2F%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Embedded C/C++" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Embedded Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microcontrollers_%26_Sensors-00C8FF?style=flat-square&logo=espressif&logoColor=white" alt="Microcontrollers & Sensors" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Edge_Computing-8247FF?style=flat-square&logo=cloudflare&logoColor=white" alt="Edge Computing" />
+</p>
+
+### Scripting, Automation & Systems CLI
+<p>
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="GNU Bash" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Batch_Script_(.bat)-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" alt="Batch Script (.bat)" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux CLI" />
+</p>
+
+### Backend & Runtimes
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_APIs-008CFF?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microservices-8247FF?style=flat-square&logo=diagram-next&logoColor=white" alt="Microservices" />
+</p>
 
 ### Frontend Engineering
 <p>
@@ -181,17 +265,6 @@ Our engineering capabilities span modern programming languages, cloud environmen
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Backend & Runtimes
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-008CFF?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microservices-8247FF?style=flat-square&logo=diagram-next&logoColor=white" alt="Microservices" />
-</p>
-
 ### Databases & Cache
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -199,9 +272,11 @@ Our engineering capabilities span modern programming languages, cloud environmen
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   &nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Cloud & Infrastructure
+### Cloud, DevOps & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   &nbsp;
@@ -219,6 +294,8 @@ Our engineering capabilities span modern programming languages, cloud environmen
   <img src="https://img.shields.io/badge/Event--Driven_Architecture-00C8FF?style=flat-square&logo=apachekafka&logoColor=white" alt="Event-Driven Architecture" />
   &nbsp;
   <img src="https://img.shields.io/badge/Distributed_Systems-8247FF?style=flat-square&logo=distributed&logoColor=white" alt="Distributed Systems" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IoT_%26_Hardware_Bridging-008CFF?style=flat-square&logo=espressif&logoColor=white" alt="IoT & Hardware Bridging" />
   &nbsp;
   <img src="https://img.shields.io/badge/API_Integrations-B329FF?style=flat-square&logo=connectwise&logoColor=white" alt="API Integrations" />
   &nbsp;

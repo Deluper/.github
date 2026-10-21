@@ -6,6 +6,17 @@ This repository defines the organization-level community profile and visual bran
 
 ---
 
+## Technical & Engineering Scope
+
+Deluper is an independent software and technology brand with engineering capabilities encompassing:
+- **Software Engineering & SaaS:** Full-stack web applications, scalable multi-tenant SaaS platforms, and distributed cloud systems.
+- **Languages & Runtimes:** Python, JavaScript, TypeScript, C, C++, Ruby, Go, Rust, and Node.js.
+- **Embedded Systems & IoT:** Firmware, microcontrollers, edge hardware integrations, and sensors using Arduino and Raspberry Pi.
+- **Scripting & Automation:** System automation and cross-platform scripting with GNU Bash, Windows Batch (.bat), and PowerShell.
+- **Cloud & DevOps:** Docker, Linux server architecture, Cloudflare edge, and automated CI/CD workflows.
+
+---
+
 ## Repository Structure
 
 ```
