@@ -126,8 +126,8 @@ Deluper operates as an independent commercial software and technology brand, del
         <strong>⚙️ Backend &amp; APIs</strong>
       </td>
       <td>
-        Node.js, Express.js, Fastify, Python (FastAPI/Django), Ruby on Rails, RESTful APIs, Microservices.<br />
-        <sub>High-throughput services, event-driven streaming, schema validation, and secure authentication lifecycles.</sub>
+        Axora (Proprietary In-House API Stack &amp; Call Handling Architecture), Node.js, RESTful APIs, Microservices.<br />
+        <sub>Custom API structure, unified call handling, high-throughput request lifecycle management, event-driven streaming, and schema validation.</sub>
       </td>
     </tr>
     <tr>

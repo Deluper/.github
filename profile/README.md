@@ -55,7 +55,7 @@ From foundational system architecture to modern full-stack application developme
 - 🌐 **Modern Software Engineering** — Clean, maintainable architectures following industry standards and robust testing paradigms across high-level languages and systems programming.
 - ⚡ **SaaS Product Development** — Multi-tenant, subscription-ready cloud platforms engineered for linear scalability.
 - ☁️ **Cloud-Native Solutions** — Elastic containerized infrastructure and automated CI/CD deployment pipelines.
-- ⚙️ **API & Backend Systems** — High-throughput microservices, low-latency RESTful APIs, and distributed event-driven systems in Node.js, Python, and Ruby.
+- ⚙️ **API & Backend Systems** — Axora (our in-house API architecture for unified call handling), high-throughput microservices, low-latency RESTful APIs, and distributed event-driven systems.
 - 🔌 **Embedded Systems & IoT Engineering** — Low-level firmware, microcontrollers, edge hardware integrations, and sensors using C, C++, Arduino, and Raspberry Pi platforms.
 - 📜 **Systems Scripting & Task Automation** — Cross-platform automation pipelines utilizing Python, GNU Bash, Windows Batch, and PowerShell to eliminate manual bottlenecks.
 - 🤖 **Intelligent Automation** — Workflow orchestration and systems integrations that streamline operational complexity.
@@ -105,7 +105,7 @@ Deluper specializes in full-lifecycle software development, providing technical 
         <sub>Secure APIs, microservices, and distributed architectures</sub>
       </td>
       <td>
-        High-concurrency backend services, performant RESTful APIs, decoupled microservices, and reliable asynchronous event streaming pipelines built with Node.js, Python, and Ruby.
+        High-concurrency backend services, performant RESTful APIs, decoupled microservices, and end-to-end request call handling powered by <strong>Axora</strong> — our proprietary in-house API architecture and unified call-handling stack.
       </td>
     </tr>
     <tr>
@@ -237,15 +237,13 @@ Our engineering capabilities span diverse programming languages, systems program
 
 ### Backend & Runtimes
 <p>
+  <img src="https://img.shields.io/badge/Axora-In--House_API_Stack-008CFF?style=flat-square" alt="Axora In-House API Stack" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Axora-Unified_Call_Handling-8247FF?style=flat-square" alt="Axora Unified Call Handling" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-008CFF?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-00C8FF?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
   &nbsp;
   <img src="https://img.shields.io/badge/Microservices-8247FF?style=flat-square&logo=diagram-next&logoColor=white" alt="Microservices" />
 </p>
@@ -349,12 +347,13 @@ Deluper operates on four foundational engineering principles that guide technica
 
 ## Our Products & Open Source
 
-Deluper actively designs and engineers proprietary SaaS platforms, digital products, and developer-centric open-source utilities.
+Deluper actively designs and engineers proprietary SaaS platforms, digital products, and developer-centric open-source utilities — including **Axora**, our in-house API architecture engineered for unified call handling, high-throughput execution, and streamlined backend services.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        Deluper Software Ecosystem                      │
 │                                                                        │
+│   ✦ Axora: In-house API architecture & unified call-handling stack     │
 │   ✦ Active Development: Next-generation SaaS platforms & dev tools     │
 │   ✦ Upcoming Releases: Open-source developer libraries & SDKs         │
 │   ✦ Continuous Integration: Verified quality and security pipelines   │
