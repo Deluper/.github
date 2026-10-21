@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080D1D" />
+      <stop offset="100%" stop-color="#04060E" />
+    </linearGradient>
+
+    <!-- Top Border Line Gradient -->
+    <linearGradient id="footerBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.3" />
+      <stop offset="30%" stop-color="#00C8FF" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#8247FF" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#B329FF" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.3" />
+    </linearGradient>
+
+    <linearGradient id="footerBrandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#E0E7FF" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="1198" height="138" rx="16" fill="url(#footerBg)" stroke="#1E293B" stroke-width="1" />
+  
+  <!-- Glowing Top Accent Line -->
+  <line x1="20" y1="1" x2="1180" y2="1" stroke="url(#footerBorder)" stroke-width="2" />
+
+  <!-- Content Centered -->
+  <g text-anchor="middle">
+    <!-- Brand Name -->
+    <text x="600" y="44" fill="url(#footerBrandGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" letter-spacing="4">DELUPER</text>
+
+    <!-- Tagline -->
+    <text x="600" y="68" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" letter-spacing="1.5">ENGINEERING DIGITAL POSSIBILITIES.</text>
+
+    <!-- Links / Domain Indicator -->
+    <text x="600" y="92" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Official Website · Development Platform · GitHub Organization</text>
+
+    <!-- Copyright -->
+    <text x="600" y="116" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400">© Deluper. All rights reserved.</text>
+  </g>
+</svg>

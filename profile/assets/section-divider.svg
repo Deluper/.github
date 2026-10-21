@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="900" height="24" fill="none">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C8FF" stop-opacity="0" />
+      <stop offset="20%" stop-color="#00C8FF" stop-opacity="0.2" />
+      <stop offset="40%" stop-color="#008CFF" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#8247FF" stop-opacity="1" />
+      <stop offset="60%" stop-color="#B329FF" stop-opacity="0.8" />
+      <stop offset="80%" stop-color="#B329FF" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#B329FF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="divGlow" x="-20%" y="-100%" width="140%" height="300%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#8247FF" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- Accent Line -->
+  <line x1="50" y1="12" x2="850" y2="12" stroke="url(#divGrad)" stroke-width="1.5" filter="url(#divGlow)" />
+
+  <!-- Center Glowing Diamond and Dots -->
+  <g transform="translate(450, 12)">
+    <circle cx="-28" cy="0" r="1.5" fill="#00C8FF" opacity="0.6" />
+    <circle cx="-16" cy="0" r="2" fill="#008CFF" opacity="0.8" />
+    <polygon points="0,-5 5,0 0,5 -5,0" fill="#FFFFFF" stroke="#8247FF" stroke-width="1.5" />
+    <circle cx="16" cy="0" r="2" fill="#8247FF" opacity="0.8" />
+    <circle cx="28" cy="0" r="1.5" fill="#B329FF" opacity="0.6" />
+  </g>
+</svg>
